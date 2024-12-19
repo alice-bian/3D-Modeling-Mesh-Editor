@@ -1,4 +1,4 @@
-# 3DModelingMeshEditor
+# 3D Modeling Mesh Editor
 A mesh editor for 3D modeling and rigging, much like the modeling capabilities of Blender and Maya.
 
 The mesh is made from three component classes: Vertex, Face, and Half-Edge. Meshes are built by connecting vertices in groups of threes.
